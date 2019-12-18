@@ -7,35 +7,35 @@
     font-size: 30px;
     font-style: bold;
 }
-​
+
 #navbar {
     position: absolute;
 }
-​
+
 /* #header{
     position: absolute;
     top: 10px;
 } */
-​
+
 #view-high-scores{
     vertical-align: top;
     color: indigo;
 }
-​
+
 #timer-function{
     color: indigo;
 }
-​
+
 body{
     padding: 0;
     margin: 0;
     display: flex;
     width: 100vw;
     height: 100vh;
-    /* justify-content: center;
-    align-items: center; */
+    justify-content: center;
+    align-items: center;
 }
-​
+
 .container{
     width: 800px;
     max-width: 80%;
@@ -44,14 +44,14 @@ body{
     padding: 10px;
     /* box-shadow: 0 0 10px 2px; */
 }
-​
+
 .btn-grid {
     display: grid;
     grid-template-columns: repeat(1, auto);
     gap: 10px;
     margin: 20px 0;
 }
-​
+
 .btn{
     background-color: indigo;
     color: white;
@@ -60,17 +60,17 @@ body{
     padding: 5px 10px;
     outline: none;
 }
-​
+
 .btn:hover {
     opacity: 50%;
 }
-​
+
 .controls {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-​
+
 .hide {
     display: none;
 }
