@@ -1,7 +1,7 @@
-*::before, *::after{
+/* *::before, *::after{
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-}
+} */
 
 #title{
     font-size: 30px;
@@ -32,8 +32,8 @@ body{
     display: flex;
     width: 100vw;
     height: 100vh;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center;
+    align-items: center; */
 }
 
 .container{
