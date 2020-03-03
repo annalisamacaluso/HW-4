@@ -1,4 +1,3 @@
-// list of all questions, choices, and answers
 const questions = [
   {
     title: "Commonly used data types DO NOT include:",
